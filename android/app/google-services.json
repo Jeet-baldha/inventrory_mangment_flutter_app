@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492878632623",
+    "project_id": "flutter-test-363c7",
+    "storage_bucket": "flutter-test-363c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492878632623:android:3bd9563afbfb07c1eee65a",
+        "android_client_info": {
+          "package_name": "com.example.enventrory_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQKAQwqP8dEmdZoOZBWkWdgC_W1BIOqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492878632623:android:b985e75ba1988088eee65a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQKAQwqP8dEmdZoOZBWkWdgC_W1BIOqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
